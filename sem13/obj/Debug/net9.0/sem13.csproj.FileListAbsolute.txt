@@ -1,0 +1,14 @@
+D:\ESTRUCTURA\sem13\sem13\bin\Debug\net9.0\sem13.exe
+D:\ESTRUCTURA\sem13\sem13\bin\Debug\net9.0\sem13.deps.json
+D:\ESTRUCTURA\sem13\sem13\bin\Debug\net9.0\sem13.runtimeconfig.json
+D:\ESTRUCTURA\sem13\sem13\bin\Debug\net9.0\sem13.dll
+D:\ESTRUCTURA\sem13\sem13\bin\Debug\net9.0\sem13.pdb
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.AssemblyInfoInputs.cache
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.AssemblyInfo.cs
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.dll
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\refint\sem13.dll
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.pdb
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.genruntimeconfig.cache
+D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\ref\sem13.dll
