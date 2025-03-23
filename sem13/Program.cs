@@ -16,7 +16,7 @@ public class Nodo
 
 public class CatalogoRevistas
 {
-    public Nodo? raiz;  // Cambié el campo a público
+    public Nodo? raiz; 
 
     public CatalogoRevistas()
     {
