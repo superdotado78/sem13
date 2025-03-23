@@ -12,3 +12,4 @@ D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\refint\sem13.dll
 D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.pdb
 D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.genruntimeconfig.cache
 D:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\ref\sem13.dll
+d:\ESTRUCTURA\sem13\sem13\obj\Debug\net9.0\sem13.sourcelink.json
